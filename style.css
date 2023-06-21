@@ -46,7 +46,13 @@ border-radius: 20px;
 
  .corpo{
   background-image: linear-gradient(#ffff,#151973);
-    color: white;
  }
+
+.textos{
+  width: 50%;
+}
+
+
+
 
  
